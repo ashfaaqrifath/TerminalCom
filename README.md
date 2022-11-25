@@ -1,2 +1,2 @@
 # Chat-Server
-Python chat room
+Chat server application using socket programming to send messages from server to client and vice versa.
