@@ -8,14 +8,14 @@ Chat server application using socket programming to send messages from client to
 
 
 ## Libraries Used
-* Pyttsx3
+* socket
 ```
-  pip install pyttsx3
+  pip install socket
 ```
 
-* Pathlib
+* threading
 ```
-  pip install pathlib
+  pip install threading
 ```
 
 * Colorama
@@ -23,16 +23,12 @@ Chat server application using socket programming to send messages from client to
   pip install colorama
 ```
 
-* Tkinter (Built-in)
-```
-  pip install tkinter
-```
 ## Features
 
-- Change narrator voices
-- 8 voices
-- Save audio file
-- File browser dialog
+- Multiple clients
+- End to end encryption
+- Client usernames
+- Log activity
 
 
 ## Badges
