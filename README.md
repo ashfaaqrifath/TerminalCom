@@ -1,4 +1,4 @@
-# TerminalChat
+# Terminal Chat
 Chat server application using socket programming to send messages from client to server and vice versa.
 
 
