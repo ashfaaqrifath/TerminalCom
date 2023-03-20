@@ -43,7 +43,7 @@ Command line based real-time chat room application that uses socket programming 
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-Copyright © 2022 Ashfaaq Rifath - Chat Server
+Copyright © 2023 Ashfaaq Rifath - TerminalChat
 
 
 ##
