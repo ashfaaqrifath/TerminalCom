@@ -1,5 +1,5 @@
 # TerminalChat
-Chat server application using socket programming to send messages from client to server and vice versa.
+Command line based real-time chat room application that uses socket programming and supports multiple users and admin functions.
 
 
 ## Authors
