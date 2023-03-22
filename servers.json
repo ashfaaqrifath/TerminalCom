@@ -1,6 +1,6 @@
 {
     "server1": {
-        "ip": "IP ADDRESS",
-        "port": PORT NUMBER
+        "ip": "<IP ADDRESS>",
+        "port": <PORT NUMBER>
     }
 }
