@@ -26,7 +26,6 @@ Command line based real-time chat room application that uses socket programming 
 ## Features
 
 - Multiple clients
-- End to end encryption
 - Client usernames
 - Log activity
 
