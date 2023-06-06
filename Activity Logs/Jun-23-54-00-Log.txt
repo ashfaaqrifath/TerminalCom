@@ -1,0 +1,2 @@
+EXIT Admin
+[31m Admin left the server
