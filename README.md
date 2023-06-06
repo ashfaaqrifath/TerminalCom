@@ -1,4 +1,4 @@
-# Terminal Chat
+# TerminalChat
 Command line based real-time chat room application that uses socket programming and supports multiple users and admin functions.
 
 
