@@ -1,48 +1,66 @@
+
 # TerminalChat
+
 Command line based real-time chat room application that uses socket programming and supports multiple users and admin functions.
 
 
-## Authors
+## 👨‍💻Authors
 
 - [@ashfaaqrifath](https://www.github.com/ashfaaqrifath)
 
 
-## Libraries Used
-* socket
-```
-  pip install socket
-```
+## 📕Packages Used
 
 * threading
 ```
   pip install threading
 ```
-
-* Colorama
+* socket
+```
+  pip install socket
+```
+* datetime
+```
+  pip install datetime
+```
+* time
+```
+  pip install time
+```
+* colorama
 ```
   pip install colorama
 ```
 
-## Features
+
+## 🛠️Functionalities
 
 - Multiple clients
-- Client usernames
-- Log activity
+- Multiple servers
+- Admin functionalities
+- Incognito mode
+- Activity logging
+- Colored outputs
 
 
-## Badges
+## 📜License
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-![MIT License](https://img.shields.io/github/followers/ashfaaqrifath?style=social)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+Copyright © 2023 Ashfaaq Rifath - TerminalChat v2.0.3
+
+
+## 🔰Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+![GitHub followers](https://img.shields.io/github/followers/ashfaaqrifath?style=social)
+
 ![MIT License](https://img.shields.io/github/stars/ashfaaqrifath/Chat-Server?style=social)
 
-
-
-## License
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
-Copyright © 2023 Ashfaaq Rifath - TerminalChat
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashfaaqrifath.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashfaaqrifath/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashfaaqrifth)
 
 
 ##
