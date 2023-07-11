@@ -46,7 +46,7 @@ Command line based real-time chat room application that uses socket programming 
 ## 📜License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-Copyright © 2023 Ashfaaq Rifath - TerminalChat v2.0.3
+Copyright © 2023 Ashfaaq Rifath - TerminalChat v2.0.5
 
 
 ## 🔰Badges
