@@ -1,7 +1,7 @@
 
-# TerminalChat
+# TerminalCom
 
-Command line based real-time chat room application that uses socket programming and supports multiple users and admin functions.
+Command line-based real-time chat room application that uses socket programming and supports multiple users and admin functions.
 
 
 ## 👨‍💻Authors
@@ -46,7 +46,7 @@ Command line based real-time chat room application that uses socket programming 
 ## 📜License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-Copyright © 2023 Ashfaaq Rifath - TerminalChat v2.0.5
+Copyright © 2023 Ashfaaq Rifath - TerminalCom v2.1.5
 
 
 ## 🔰Badges
